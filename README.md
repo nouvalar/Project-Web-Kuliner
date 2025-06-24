@@ -20,16 +20,3 @@ php artisan serve
 ```
 php artisan storage:link
 ```
-
-### Untuk melakukan pengetesan login jika tidak ingin membuat akun, gunakan akun dibawah ini!!!
-Akun Admin
-```
-admin@gmail.com
-12345
-```
-
-Akun User
-```
-user@gmail.com
-123456
-```
